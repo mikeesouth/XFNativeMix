@@ -4,7 +4,7 @@ using Xamarin.Forms;
 
 namespace nativemix
 {
-	public partial class AndroidView : ContentView
+	public partial class AndroidView : BaseView
 	{
 		public AndroidView()
 		{
